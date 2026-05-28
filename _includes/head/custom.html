@@ -27,35 +27,34 @@
     max-width: 160px;
   }
 
-  /* 3. abstract / full paper 링크 스타일 */
-  .pub-links a,
+  /* 3. publication / 항목 리스트 문단 간격 */
+  .pub-list p { margin: 0 0 0.9em; }
+
+  /* 4. abstract / full paper 링크 */
+  .pub-link,
   details.abstract > summary {
     font-size: 0.9em;
-    color: #2a6df4 !important;     /* 푸른색 링크 */
+    color: #2a6df4 !important;       /* 파란 링크 */
     cursor: pointer;
-    margin-right: 8px;
     text-decoration: none;
   }
-  .pub-links a:hover,
+  .pub-link { margin-left: 4px; }
+  .pub-link:hover,
   details.abstract > summary:hover { text-decoration: underline; }
 
-  /* details를 인라인으로, 기본 삼각형(▶) 제거 */
+  /* details 인라인 + 기본 삼각형 제거 */
   details.abstract { display: inline; }
-  details.abstract > summary {
-    display: inline;
-    list-style: none;
-  }
+  details.abstract > summary { display: inline; list-style: none; }
   details.abstract > summary::-webkit-details-marker { display: none; }  /* Chrome/Safari */
   details.abstract > summary::marker { content: ""; }                     /* Firefox */
-  details.abstract[open] > summary { font-weight: 600; }
 
+  /* abstract 펼침 박스: 단색 밝은 회색 네모 */
   details.abstract .abstract-body {
     display: block;
-    font-size: 0.88em;
-    line-height: 1.55;
-    background: #f7f6f3;
-    border-left: 3px solid #d8d5cc;
-    padding: 10px 14px;
+    font-size: 0.9em;
+    line-height: 1.6;
+    background: #f2f2f2;
+    padding: 14px 16px;
     margin-top: 8px;
     border-radius: 4px;
   }
