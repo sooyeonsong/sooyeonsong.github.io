@@ -13,8 +13,6 @@ My work applies econometric and measurement science methods to large-scale healt
 
 Before pursuing PhD training, I worked in global health policy and government management and practiced clinical internal medicine. I received my MPH in Health Policy and Management, BS in Nursing, and BA in Philosophy in South Korea.
 
-You can find my CV [here](/files/Song_CV.pdf).
-
 <h2 id="education">Education</h2>
 
 <div class="pub-list" markdown="0">
