@@ -32,8 +32,8 @@ You can find my CV [here](/files/Song_CV.pdf).
 
 <h2 id="working-papers">Working Papers</h2>
 
-1. <strong>Song S</strong>, Pizer SD, Yee CA, Auty SG. Geographic Variation in Service-Specific Low-Value Orthopedic Services among Medicare-Enrolled Veterans. <em>Under review, JAMA Network Open.</em>
-2. <strong>Song S</strong>, Jang T, Lum J, Nguyen P, Pizer SD, Yee CA. Association between Telehealth and Patient Experience in Veterans Affairs Primary Care, 2018–2021. <em>Under review, JGIM.</em>
+1. <strong>Song S</strong>, Pizer SD, Yee CA, Auty SG. Geographic Variation in Service-Specific Low-Value Orthopedic Services among Medicare-Enrolled Veterans. <em>Under review.</em>
+2. <strong>Song S</strong>, Jang T, Lum J, Nguyen P, Pizer SD, Yee CA. Association between Telehealth and Patient Experience in Veterans Affairs Primary Care, 2018–2021. <em>Under review.</em>
 3. <strong>Song S</strong>, Auty SG, Yee CA, Chalmers K, Pizer SD. Prospective Low-Value Service Composite to Predict Spending and Quality. <em>In preparation.</em>
 4. <strong>Song S</strong>, Nguyen P, Sites EP, Barr K, Greer M, Pizer S, Thorsness R. Developing Clinician Staffing Guidelines in Veterans Health Administration. <em>In preparation.</em>
 5. Mattar F, Barr K, Palani S, Lum J, <strong>Song S</strong>, Sadej I, Jang T, Yee C. Impact of Tele-critical Care on ICU Outcomes. <em>In preparation.</em>
