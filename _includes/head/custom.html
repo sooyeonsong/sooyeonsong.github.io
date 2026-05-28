@@ -23,24 +23,38 @@
 
   /* 2. 프로필 사진: 둥근 모서리 */
   .author__avatar img {
-    border-radius: 12px !important;   /* 더 둥글게 16, 각지게 6, 원형 50% */
+    border-radius: 12px !important;
     max-width: 180px;
   }
-  /* 사진 아래 이름 (사이드바 기본 name은 _config.yml에서 비워둠) */
+  /* 사진 아래 이름: 왼쪽 정렬 */
   .author__avatar::after {
     content: "Sooyeon Song";
     display: block;
-    text-align: center;
+    text-align: left;
     font-size: 1.25em;
     font-weight: 700;
     margin-top: 12px;
     color: #1c1b18;
   }
+  /* 사이드바 기본 이름(author__name)은 _config.yml에서 비워둠 */
 
   /* 3. 항목 리스트 문단 간격 */
   .pub-list p { margin: 0 0 0.9em; }
 
-  /* 4. presentation 그룹 헤더 (Domestic / International) */
+  /* 4. Education 연도 우측 정렬 */
+  .ed-row { display: flex; justify-content: space-between; align-items: baseline; }
+  .ed-row .ed-year { font-weight: 400; color: #555; white-space: nowrap; padding-left: 12px; }
+
+  /* 소제목 (Service 등): 크게 + 이탤릭 */
+  .pub-list p.sub-head {
+    font-size: 1.1em;
+    font-style: italic;
+    font-weight: 600;
+    margin-top: 1.1em;
+    margin-bottom: 0.4em;
+  }
+
+  /* 5. presentation 그룹 헤더 (Domestic / International) */
   .pub-list p.pres-group {
     font-size: 1.1em;
     font-style: italic;
@@ -49,7 +63,7 @@
     margin-bottom: 0.4em;
   }
 
-  /* 5. abstract / full paper 링크 — 제목 줄에 인라인으로 붙임 */
+  /* 6. abstract / full paper 링크 — 제목 줄에 인라인 */
   .pub-link,
   .abstract > summary {
     color: #2a6df4 !important;
@@ -61,7 +75,6 @@
   .pub-link:hover,
   .abstract > summary:hover { text-decoration: underline; }
 
-  /* details 인라인 강제 + 기본 삼각형 제거 (셀렉터 강화) */
   .pub-list details.abstract,
   details.abstract { display: inline !important; }
   .pub-list details.abstract > summary,
@@ -73,7 +86,6 @@
   details.abstract > summary::-webkit-details-marker { display: none !important; }
   details.abstract > summary::marker { content: "" !important; }
 
-  /* abstract 펼침 박스: 단색 밝은 회색 네모 */
   details.abstract .abstract-body {
     display: block;
     font-size: 0.9em;
