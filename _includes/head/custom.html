@@ -36,58 +36,38 @@
     margin-top: 12px;
     color: #1c1b18;
   }
-  /* 사이드바 기본 이름(author__name)은 _config.yml에서 비워둠 */
 
   /* 3. 항목 리스트 문단 간격 */
   .pub-list p { margin: 0 0 0.9em; }
 
   /* 4. Education 연도 우측 정렬 */
-  .ed-row { display: flex; justify-content: space-between; align-items: baseline; }
-  .ed-row .ed-year { font-weight: 400; color: #555; white-space: nowrap; padding-left: 12px; }
+  .ed-row { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+  .ed-row .ed-year { font-weight: 400; color: #555; white-space: nowrap; }
 
-  /* 소제목 (Service 등): 크게 + 이탤릭 */
+  /* 5. 소제목 (Service / Presentations): 크게 + 이탤릭, 간격 좁게 */
+  .pub-list p.pres-group,
   .pub-list p.sub-head {
     font-size: 1.1em;
     font-style: italic;
     font-weight: 600;
-    margin-top: 1.1em;
-    margin-bottom: 0.4em;
+    margin-top: 0.9em;
+    margin-bottom: 0.2em;
   }
 
-  /* 5. presentation 그룹 헤더 (Domestic / International) */
-  .pub-list p.pres-group {
-    font-size: 1.1em;
-    font-style: italic;
-    font-weight: 600;
-    margin-top: 1.1em;
-    margin-bottom: 0.4em;
-  }
-
-  /* 6. abstract / full paper 링크 — 제목 줄에 인라인 */
+  /* 6. abstract / full paper 링크 (JS 토글 방식) */
   .pub-link,
-  .abstract > summary {
+  .abs-toggle {
     color: #2a6df4 !important;
     cursor: pointer;
     text-decoration: none;
     white-space: nowrap;
-  }
-  .pub-link { margin-left: 6px; }
-  .pub-link:hover,
-  .abstract > summary:hover { text-decoration: underline; }
-
-  .pub-list details.abstract,
-  details.abstract { display: inline !important; }
-  .pub-list details.abstract > summary,
-  details.abstract > summary {
-    display: inline !important;
-    list-style: none !important;
     margin-left: 6px;
   }
-  details.abstract > summary::-webkit-details-marker { display: none !important; }
-  details.abstract > summary::marker { content: "" !important; }
-
-  details.abstract .abstract-body {
-    display: block;
+  .pub-link:hover,
+  .abs-toggle:hover { text-decoration: underline; }
+  .abs { display: inline; }
+  .abs-body {
+    display: none;            /* 기본 접힘 */
     font-size: 0.9em;
     line-height: 1.6;
     background: #f2f2f2;
