@@ -13,7 +13,14 @@ My work applies econometric and measurement science methods to large-scale healt
 
 Before pursuing PhD training, I worked in global health policy and government management and practiced clinical internal medicine. I received my MPH in Health Policy and Management, BS in Nursing, and BA in Philosophy in South Korea.
 
-You can find my CV [here](/files/Song_CV.pdf).
+<h2 id="education">Education</h2>
+
+<div class="pub-list" markdown="0">
+<p><strong>Boston University</strong>, PhD in Health Services and Policy Research (Health Economics), 2027 (expected)<br>Department of Health Law, Policy, and Management<br>Dissertation (in progress): Measuring quality and value of physician practices to improve selective contracting<br>Committee: Steven D. Pizer (chair), Christine A. Yee, Samantha G. Auty</p>
+<p><strong>Seoul National University</strong>, MPH in Health Care Management and Policy, 2016</p>
+<p><strong>Seoul National University</strong>, BS in Nursing &amp; BA in Philosophy, 2013</p>
+</div>
+
 
 <h2 id="publications">Publications</h2>
 
@@ -90,11 +97,11 @@ You can find my CV [here](/files/Song_CV.pdf).
 <h2 id="experience">Professional Experience</h2>
 
 <div class="pub-list" markdown="0">
-<p><strong>Graduate Fellow</strong>, 2021&ndash;Present<br>Partnered Evidence-based Policy Resource Center, VA Boston Healthcare System, MA</p>
-<p><strong>Health Specialist</strong>, 2017&ndash;2021<br>Global Disease Eradication Fund Department, Korea International Cooperation Agency (KOICA) HQ, Korea</p>
-<p><strong>Research Assistant</strong>, 2016<br>Quality and Safety Unit, Integrated Health Services Department, World Health Organization HQ, Geneva, Switzerland</p>
-<p><strong>Registered Nurse</strong>, 2014&ndash;2016<br>Internal Medicine &amp; Rehabilitation Medicine, Seoul National University Hospital, Korea</p>
-<p><strong>Research Assistant</strong>, 2014<br>Health Care Policy Analysis Department, Korea Institute for Health and Social Affairs, Korea</p>
+<p><strong>VA Boston Healthcare System, US Department of Veterans Affairs</strong><br>Graduate Fellow, <a href="https://www.peprec.research.va.gov/PEPRECRESEARCH/index.asp" target="_blank" rel="noopener">Partnered Evidence-Based Policy Resource Center</a><br>Boston, MA &middot; <em>Sep 2021&ndash;present</em></p>
+<p><strong>Korea International Cooperation Agency (KOICA) HQ</strong> (Korean equivalent of USAID)<br>Health Specialist, <a href="http://koica.go.kr/koica_en/3458/subview.do" target="_blank" rel="noopener">Global Disease Eradication Fund (GDEF) Department</a><br>Sungnam, Korea &middot; <em>Jun 2017&ndash;Feb 2021</em></p>
+<p><strong>World Health Organization (WHO) HQ</strong><br>Research Assistant, <a href="https://www.who.int/teams/integrated-health-services/about" target="_blank" rel="noopener">Integrated Health Services Department</a><br>Geneva, Switzerland &middot; <em>Sep 2016&ndash;Dec 2016</em></p>
+<p><strong><a href="https://www.snuh.org/global/en/main.do" target="_blank" rel="noopener">Seoul National University Hospital</a></strong> (Acute care hospital with 1700+ beds)<br>Registered Nurse (inpatient), Internal Medicine &amp; Rehabilitation Medicine<br>Seoul, Korea &middot; <em>Sep 2014&ndash;Sep 2016</em></p>
+<p><strong><a href="https://www.kihasa.re.kr/en" target="_blank" rel="noopener">Korea Institute for Health and Social Affairs</a></strong> (Government think tank specialized in health and social policy)<br>Research Assistant (part-time), Health Care Policy Analysis Department<br>Seoul, Korea &middot; <em>Apr 2014&ndash;Jun 2014</em></p>
 </div>
 
 <h2 id="service">Professional Service</h2>
