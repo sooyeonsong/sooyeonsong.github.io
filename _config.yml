@@ -24,11 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sooyeon Song"
-  location         : "Bay area, CA"
-  employer         : "Boston University School of Public Health"
   email            : "songsy@bu.edu" 
-  googlescholar    : "https://scholar.google.com/citations?user=1IvaPsQAAAAJ&hl=en&oi=ao"
   linkedin         : "soooyeonsong"
+  googlescholar    : "https://scholar.google.com/citations?user=1IvaPsQAAAAJ&hl=en&oi=ao"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
