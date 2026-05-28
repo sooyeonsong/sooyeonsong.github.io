@@ -32,26 +32,29 @@
   }
 
   /* 2. abstract / full paper 링크 스타일 */
-  .pub-links a {
-    font-size: 0.85em;
-    text-decoration: none;
-    color: #2f4858;
-    margin-right: 10px;
-  }
-  .pub-links a:hover { text-decoration: underline; }
-
-  details.abstract { margin: 4px 0 10px; }
-  details.abstract summary {
+  .pub-links a,
+  details.abstract > summary {
+    font-size: 0.9em;
+    color: #2a6df4 !important;     /* 푸른색 링크 */
     cursor: pointer;
-    font-size: 0.85em;
-    color: #2f4858;
-    list-style: none;
-    display: inline-block;
+    margin-right: 8px;
+    text-decoration: none;
   }
-  details.abstract summary::-webkit-details-marker { display: none; }
-  details.abstract summary:hover { text-decoration: underline; }
-  details.abstract[open] summary { font-weight: 600; }
+  .pub-links a:hover,
+  details.abstract > summary:hover { text-decoration: underline; }
+
+  /* details를 인라인으로, 기본 삼각형(▶) 제거 */
+  details.abstract { display: inline; }
+  details.abstract > summary {
+    display: inline;
+    list-style: none;
+  }
+  details.abstract > summary::-webkit-details-marker { display: none; }   /* Chrome/Safari 삼각형 제거 */
+  details.abstract > summary::marker { content: ""; }                      /* Firefox 삼각형 제거 */
+  details.abstract[open] > summary { font-weight: 600; }
+
   details.abstract .abstract-body {
+    display: block;
     font-size: 0.88em;
     line-height: 1.55;
     background: #f7f6f3;
