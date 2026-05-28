@@ -25,15 +25,14 @@ Main Measures: Exposure is a binary indicator of having at least one video visit
 5. Mattar F, Barr K, Palani S, Lum J, <strong>Song S</strong>, Sadej I, Jang T, Yee C. Impact of Tele-critical Care on ICU Outcomes. <em>In preparation.</em>
 
 <h2 id="presentations">Selected Conference Presentations</h2>
-
-- <strong>Song S</strong>, Auty S, Yee CA, Chalmers K, Pizer SD. Use of Low-Value Service Measures to Predict Subsequent Population-Based Spending: Implications for Value-Based Network Regulation. Podium presentation, ASHEcon Annual Conference, Minneapolis, MN, 2026.
-- <strong>Song S</strong>, Nguyen P, Sites EP, Barr K, Greer M, Pizer S, Thorsness R. Developing clinician staffing guidelines in Veterans Health Administration. Poster, AcademyHealth Annual Research Meeting, Minneapolis, MN, 2025.
-- <strong>Song S</strong>, Legler A, Lum J, Pizer S, Yee C. Effects of telehealth provision on primary care provider labor supply. Podium presentation, ASHEcon Annual Conference, San Diego, CA, 2024.
-- <strong>Song S</strong>, Pizer S, Lum J, Yee C. Association between telehealth provision and provider labor supply. Podium presentation, AcademyHealth Annual Research Meeting, Seattle, WA, 2023.
-- <strong>Song S</strong>, Palani S, Lum J, Barr K, Pizer S, Yee C. Association between virtual care use and patient satisfaction in primary care among Veterans. Poster, AcademyHealth Annual Research Meeting, Washington, DC, 2022.
+- <strong>Song S</strong>, Auty S, Yee CA, Chalmers K, Pizer SD. Use of Low-Value Service Measures to Predict Subsequent Population-Based Spending: Implications for Value-Based Network Regulation. Podium presentation, ASHEcon Annual Conference, Minneapolis, MN, 2026. <span class="pub-links"><a href="https://ashecon.confex.com/ashecon/2026/meetingapp.cgi/Paper/18714" target="_blank" rel="noopener">[Abstract]</a></span>
+- <strong>Song S</strong>, Nguyen P, Sites EP, Barr K, Greer M, Pizer S, Thorsness R. Developing clinician staffing guidelines in Veterans Health Administration. Poster, AcademyHealth Annual Research Meeting, Minneapolis, MN, 2025. <span class="pub-links"><a href="https://academyhealth.confex.com/academyhealth/2025arm/meetingapp.cgi/Paper/70262" target="_blank" rel="noopener">[Abstract]</a></span>
+- <strong>Song S</strong>, Legler A, Lum J, Pizer S, Yee C. Effects of telehealth provision on primary care provider labor supply. Podium presentation, ASHEcon Annual Conference, San Diego, CA, 2024. <span class="pub-links"><a href="https://ashecon.confex.com/ashecon/2024/meetingapp.cgi/Paper/15345" target="_blank" rel="noopener">[Abstract]</a></span>
+- <strong>Song S</strong>, Pizer S, Lum J, Yee C. Association between telehealth provision and provider labor supply. Podium presentation, AcademyHealth Annual Research Meeting, Seattle, WA, 2023. <span class="pub-links"><a href="https://academyhealth.confex.com/academyhealth/2023arm/meetingapp.cgi/Paper/60819" target="_blank" rel="noopener">[Abstract]</a></span>
+- <strong>Song S</strong>, Palani S, Lum J, Barr K, Pizer S, Yee C. Association between virtual care use and patient satisfaction in primary care among Veterans. Poster, AcademyHealth Annual Research Meeting, Washington, DC, 2022. <span class="pub-links"><a href="https://academyhealth.confex.com/academyhealth/2022arm/meetingapp.cgi/Paper/52764" target="_blank" rel="noopener">[Abstract]</a></span>
 - Griffith K, Asfaw D, <strong>Song S</strong>, Aswani M. Medicaid expansion was associated with longer wait times for specialty care. Podium presentation, International Health Economics Association Congress, Cape Town, South Africa, 2023.
 
-<h2 id="grants">Research Grants</h2>
+<h2 id="grants">Grant Experience</h2>
 
 - <strong>BU School of Public Health Predoctoral Pilot Research Award</strong> ($2,000), 2025–2026. Measuring Quality and Value of Physician Practices to Improve Selective Contracting. Role: Principal Investigator.
 - <strong>Korea Medical Association Research Institute for Healthcare Policy</strong> ($2,400), 2015–2016. Effects of tiered cost sharing on outpatient and prescription drug use in Korea. Role: Principal Investigator.
