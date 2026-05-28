@@ -22,7 +22,7 @@ repository               : "sooyeonsong/sooyeonsong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Sooyeon-Small.jpg"
+  avatar           : "sq.jpg"
   name             : "Sooyeon Song"
   email            : "songsy@bu.edu" 
   linkedin         : "soooyeonsong"
