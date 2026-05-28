@@ -16,9 +16,9 @@ Before pursuing PhD training, I worked in global health policy and government ma
 <h2 id="education">Education</h2>
 
 <div class="pub-list" markdown="0">
-<p><strong>Boston University</strong>, PhD in Health Services and Policy Research (Health Economics), 2027 (expected)<br>Department of Health Law, Policy, and Management<br>Dissertation: Measuring quality and value of physician practices to improve selective contracting<br>Committee: Steven D. Pizer (chair), Christine A. Yee, Samantha G. Auty</p>
-<p><strong>Seoul National University</strong>, MPH in Health Care Management and Policy, 2016</p>
-<p><strong>Seoul National University</strong>, BS in Nursing &amp; BA in Philosophy, 2013</p>
+<p><span class="ed-row"><strong>Boston University</strong><span class="ed-year">2027 (expected)</span></span><br>Ph.D. Candidate, Health Services and Policy Research (Health Economics)<br>Department of Health Law, Policy, and Management<br>Dissertation (in progress): Measuring quality and value of physician practices to improve selective contracting<br>Committee: Drs. Steven D. Pizer (chair), Christine A. Yee, Samantha G. Auty</p>
+<p><span class="ed-row"><strong>Seoul National University</strong><span class="ed-year">2016</span></span><br>M.P.H. in Health Care Management and Policy<br>Thesis: Effects of tiered cost sharing on outpatient service use and prescription drug use</p>
+<p><span class="ed-row"><strong>Seoul National University</strong><span class="ed-year">2013</span></span><br>B.S. in Nursing, B.A. in Philosophy</p>
 </div>
 
 <h2 id="publications">Publications</h2>
@@ -63,10 +63,10 @@ Before pursuing PhD training, I worked in global health policy and government ma
 <h2 id="grants">Grant Experience</h2>
 
 <div class="pub-list" markdown="0">
-<p><strong>NIH/NIA F31 Predoctoral Individual National Research Service Award (NRSA)</strong>. <em>Submitted.</em><br>Improving Medicare Advantage Network Regulation Through Physician Practice Quality and Value Measurement</p>
-<p><strong>BU School of Public Health Predoctoral Dissertation Award</strong> ($2,000), 2025&ndash;2026.<br>Measuring Quality and Value of Physician Practices to Improve Selective Contracting</p>
+<p><strong>NIH/NIA F31 Predoctoral Individual National Research Service Award (NRSA)</strong>. <em>Submitted.</em><br>Title: Improving Medicare Advantage Network Regulation Through Physician Practice Quality and Value Measurement</p>
+<p><strong>BU School of Public Health Predoctoral Dissertation Award</strong> ($2,000), 2025&ndash;2026.<br>Title: Measuring Quality and Value of Physician Practices to Improve Selective Contracting</p>
 <p><strong>Principal Candidate, Fulbright Graduate Scholarship</strong> ($80,000; not accepted due to COVID-19), 2020.</p>
-<p><strong>Korea Medical Association Research Institute for Healthcare Policy</strong> ($2,400), 2015&ndash;2016.<br>Effects of tiered cost sharing on outpatient and prescription drug use in Korea</p>
+<p><strong>Korea Medical Association Research Institute for Healthcare Policy</strong> ($2,400), 2015&ndash;2016.<br>Title: Effects of tiered cost sharing on outpatient and prescription drug use in Korea</p>
 <p><strong>Dr. Lee Fellowship</strong>, Korea Foundation for International Healthcare ($3,500), 2015.</p>
 </div>
 
@@ -106,16 +106,17 @@ Before pursuing PhD training, I worked in global health policy and government ma
 <h2 id="service">Professional Service</h2>
 
 <div class="pub-list" markdown="0">
-<p><strong>Professional Appointment</strong></p>
+<p class="sub-head">Professional Appointment</p>
 <p>Member-at-large, AcademyHealth Health Economics Interest Group Advisory Committee, 2024&ndash;2026.</p>
-<p><strong>Conference Participation</strong></p>
+<p class="sub-head">Conference Participation</p>
 <p>Abstract Referee: AcademyHealth Annual Research Meeting (2023&ndash;2026), ASHEcon Conference (2024&ndash;2026), SGIM Conference (2024&ndash;2025).</p>
-<p><strong>Ad Hoc Journal Referee</strong></p>
+<p class="sub-head">Ad Hoc Journal Referee</p>
 <p>BMC Health Services Research; International Journal of Health Economics and Management (junior reviewer).</p>
-<p><strong>Professional Affiliations</strong></p>
-<p>AcademyHealth (2021&ndash;Present), ASHEcon (2021&ndash;Present), APPAM (2022&ndash;Present), SGIM (2023&ndash;Present).</p>
-<p><strong>Prior Global Health and Korean Government Experience</strong></p>
+<p class="sub-head">Prior Global Health and Korean Government Experience</p>
 <p>Technical Expert Panel Member, (Korean) R&amp;D Fund for Infectious Disease Research (GFID), 2019.</p>
 <p>Ad Hoc Grant Proposal Referee, KOICA (&times;9), 2017&ndash;2019.</p>
+<p class="sub-head">Professional Affiliations</p>
+<p>AcademyHealth (2021&ndash;Present), ASHEcon (2021&ndash;Present), APPAM (2022&ndash;Present), SGIM (2023&ndash;Present).</p>
 </div>
+
 
