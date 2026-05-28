@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Health Services and Policy Research (Health Economics) at Boston University School of Public Health, and a Graduate Fellow at the Partnered Evidence-based Policy Resource Center (PEPReC) at the VA Boston Healthcare System. My research examines how clinicians respond to payment and delivery reforms such as selective contracting and telemedicine. My dissertation measures the quality and value of physician practices to improve selective contracting.
+Welcome! I am a quantitative health services researcher and PhD candidate at the Boston University School of Public Health. My research aims to better understand how clinicians and healthcare organizations respond to payment and delivery reforms, including selective contracting and telemedicine. My dissertation focuses on evaluating low-value service measures to assess physician practice value in value-based networks.
 
-Before my doctoral training, I worked in government management in global health at the Korea International Cooperation Agency (KOICA) and the World Health Organization, and practiced as a registered nurse in internal medicine. I received my MPH in Health Care Management and Policy, BS in Nursing, and BA in Philosophy from Seoul National University.
+My work applies econometric and measurement science methods to large-scale healthcare data, including Medicare fee-for-service claims, Veterans Health Administration administrative data, electronic health record data, and survey data.
+
+Before pursuing PhD training, I worked in global health policy and government management and practiced clinical internal medicine. I received my MPH in Health Policy and Management, BS in Nursing, and BA in Philosophy in South Korea.
 
 You can find my CV [here](/files/Song_CV.pdf).
 
@@ -107,4 +109,3 @@ You can find my CV [here](/files/Song_CV.pdf).
 <p><strong>Professional Affiliations</strong></p>
 <p>AcademyHealth (2021&ndash;Present), ASHEcon (2021&ndash;Present), APPAM (2022&ndash;Present), SGIM (2023&ndash;Present).</p>
 </div>
-
