@@ -40,9 +40,9 @@
   /* 3. 항목 리스트 문단 간격 */
   .pub-list p { margin: 0 0 0.9em; }
 
-  /* 4. Education 연도 우측 정렬 */
-  .ed-row { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
-  .ed-row .ed-year { font-weight: 400; color: #555; white-space: nowrap; }
+/* 4. Education 연도 우측 정렬 (float 방식, 빈 줄 없음) */
+  .ed-row { display: block; }
+  .ed-row .ed-year { float: right; font-weight: 400; color: #555; white-space: nowrap; }
 
   /* 5. 소제목 (Service / Presentations): 크게 + 이탤릭, 간격 좁게 */
   .pub-list p.pres-group,
