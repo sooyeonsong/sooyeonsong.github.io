@@ -21,10 +21,21 @@
   .page__content li { font-size: 0.95em; }
   .page__content h2 { font-size: 1.4em; margin-top: 1.6em; }
 
-  /* 2. 네모 프로필 사진 */
+/* 2. 프로필 사진: 둥근 모서리 네모 */
   .author__avatar img {
-    border-radius: 6px !important;   /* 완전 각지게 하려면 0 */
-    max-width: 160px;
+    border-radius: 12px !important;   /* 둥근 정도. 더 둥글게 16, 각지게 6 */
+    max-width: 180px;
+  }
+
+  /* 사진 아래에 이름 표시 (사이드바 기본 name은 비워둠) */
+  .author__avatar::after {
+    content: "Sooyeon Song";
+    display: block;
+    text-align: center;
+    font-size: 1.25em;
+    font-weight: 700;
+    margin-top: 12px;
+    color: #1c1b18;
   }
 
   /* 3. publication / 항목 리스트 문단 간격 */
