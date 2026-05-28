@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sooyeon Song"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Sooyeon Song is a PhD candidate in Health Services and Policy Research at Boston University. Her research goal is to better understand how clinicians respond to payment and delivery reforms, such as selective contracting and telemedicine. Her dissertation project focuses on measuring the value of physician practices to improve selective contracting. She uses econometric techniques to analyze large datasets, including claims and administrative data, EHR (labs and vital signs), clinician salary and benefit information, and patient experience survey. Before pursuing PhD training, she worked in government management in global health and practiced clinical internal medicine. She received her MPH in health policy and management, BS in nursing, and BA in philosophy in South Korea."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "songsy@bu.edu" 
 
   # Academic websites
   academia         : # URL
