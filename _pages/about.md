@@ -16,9 +16,9 @@ Before pursuing PhD training, I worked in global health policy and government ma
 <h2 id="education">Education</h2>
 
 <div class="pub-list" markdown="0">
-<p><span class="ed-row"><span><strong>Boston University</strong>, Ph.D. Candidate, Health Services and Policy Research (Health Economics)</span><span class="ed-year">2027 (expected)</span></span><br>Department of Health Law, Policy, and Management<br>Dissertation (in progress): Measuring quality and value of physician practices to improve selective contracting<br>Committee: Drs. Steven D. Pizer (chair), Christine A. Yee, Samantha G. Auty</p>
-<p><span class="ed-row"><span><strong>Seoul National University</strong>, M.P.H. in Health Care Management and Policy</span><span class="ed-year">2016</span></span><br>Thesis: Effects of tiered cost sharing on outpatient service use and prescription drug use</p>
-<p><span class="ed-row"><span><strong>Seoul National University</strong>, B.S. in Nursing, B.A. in Philosophy</span><span class="ed-year">2013</span></span></p>
+<p><span class="ed-row"><strong>Boston University</strong><span class="ed-year">2027 (expected)</span></span><br>Ph.D. Candidate, Health Services and Policy Research (Health Economics)<br>Department of Health Law, Policy, and Management<br>Dissertation (in progress): Measuring quality and value of physician practices to improve selective contracting<br>Committee: Drs. Steven D. Pizer (chair), Christine A. Yee, Samantha G. Auty</p>
+<p><span class="ed-row"><strong>Seoul National University</strong><span class="ed-year">2016</span></span><br>M.P.H. in Health Care Management and Policy<br>Thesis: Effects of tiered cost sharing on outpatient service use and prescription drug use</p>
+<p><span class="ed-row"><strong>Seoul National University</strong><span class="ed-year">2013</span></span><br>B.S. in Nursing, B.A. in Philosophy</p>
 </div>
 
 <h2 id="publications">Publications</h2>
