@@ -1,33 +1,25 @@
 # The following is the order of the links in the header of the website.
 #
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
-
+# These links point to anchors on the front page (single-page layout),
+# so clicking a menu item scrolls to that section.
 main:
+  - title: "About"
+    url: /#
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
+    url: /#publications
+  - title: "Working Papers"
+    url: /#working-papers
+  - title: "Presentations"
+    url: /#presentations
+  - title: "Grants"
+    url: /#grants
+  - title: "Awards"
+    url: /#awards
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /#teaching
+  - title: "Experience"
+    url: /#experience
+  - title: "Service"
+    url: /#service
   - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/Song_CV.pdf
