@@ -24,62 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sooyeon Song"
-  pronouns         : "she/her"  
-  bio              : "Sooyeon Song is a PhD candidate in Health Services and Policy Research at Boston University. Her research goal is to better understand how clinicians respond to payment and delivery reforms, such as selective contracting and telemedicine. Her dissertation project focuses on measuring the value of physician practices to improve selective contracting. She uses econometric techniques to analyze large datasets, including claims and administrative data, EHR (labs and vital signs), clinician salary and benefit information, and patient experience survey. Before pursuing PhD training, she worked in government management in global health and practiced clinical internal medicine. She received her MPH in health policy and management, BS in nursing, and BA in philosophy in South Korea."
   location         : "Bay area, CA"
   employer         : "Boston University School of Public Health"
-  uri              : # URL
   email            : "songsy@bu.edu" 
-
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=1IvaPsQAAAAJ&hl=en&oi=ao"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : # URL
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : # URL
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
-
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
   linkedin         : "soooyeonsong"
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
