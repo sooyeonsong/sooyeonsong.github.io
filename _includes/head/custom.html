@@ -15,3 +15,49 @@
 <meta name="theme-color" content="#ffffff"/>
 
 <!-- end custom head snippets -->
+
+<!-- ===== custom styles ===== -->
+<style>
+  /* 1. 전체 글자 크기 살짝 줄이기 */
+  html { font-size: 15px; }              /* 기본 16px → 15px */
+  .page__content { font-size: 0.95em; line-height: 1.65; }
+  .page__content p,
+  .page__content li { font-size: 0.95em; }
+  .page__content h2 { font-size: 1.4em; margin-top: 1.6em; }
+
+  /* 3. 네모 프로필 사진 */
+  .author__avatar img {
+    border-radius: 6px !important;   /* 살짝 둥근 네모; 완전 각지게 하려면 0 */
+    max-width: 160px;
+  }
+
+  /* 2. abstract / full paper 링크 스타일 */
+  .pub-links a {
+    font-size: 0.85em;
+    text-decoration: none;
+    color: #2f4858;
+    margin-right: 10px;
+  }
+  .pub-links a:hover { text-decoration: underline; }
+
+  details.abstract { margin: 4px 0 10px; }
+  details.abstract summary {
+    cursor: pointer;
+    font-size: 0.85em;
+    color: #2f4858;
+    list-style: none;
+    display: inline-block;
+  }
+  details.abstract summary::-webkit-details-marker { display: none; }
+  details.abstract summary:hover { text-decoration: underline; }
+  details.abstract[open] summary { font-weight: 600; }
+  details.abstract .abstract-body {
+    font-size: 0.88em;
+    line-height: 1.55;
+    background: #f7f6f3;
+    border-left: 3px solid #d8d5cc;
+    padding: 10px 14px;
+    margin-top: 8px;
+    border-radius: 4px;
+  }
+</style>
