@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I am a quantitative health services researcher and PhD candidate at the Boston University School of Public Health. 
 
-My research aims to better understand how clinicians and healthcare organizations respond to payment and delivery reforms, including selective contracting and telemedicine. My dissertation focuses on evaluating low-value service measures to assess physician practice value in value-based networks.
+My research aims to better understand how clinicians and healthcare organizations respond to payment and delivery reforms, including selective contracting and telemedicine.
 
 My work applies econometric and measurement science methods to large-scale healthcare data, including Medicare fee-for-service claims, Veterans Health Administration administrative data, electronic health record data, and survey data.
 
