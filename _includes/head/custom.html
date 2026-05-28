@@ -1,10 +1,7 @@
 {% include base_path %}
-
 <!-- start custom head snippets -->
-
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
-
 <!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
@@ -13,25 +10,24 @@
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
-
 <!-- end custom head snippets -->
 
 <!-- ===== custom styles ===== -->
 <style>
   /* 1. 전체 글자 크기 살짝 줄이기 */
-  html { font-size: 15px; }              /* 기본 16px → 15px */
+  html { font-size: 15px; }
   .page__content { font-size: 0.95em; line-height: 1.65; }
   .page__content p,
   .page__content li { font-size: 0.95em; }
   .page__content h2 { font-size: 1.4em; margin-top: 1.6em; }
 
-  /* 3. 네모 프로필 사진 */
+  /* 2. 네모 프로필 사진 */
   .author__avatar img {
-    border-radius: 6px !important;   /* 살짝 둥근 네모; 완전 각지게 하려면 0 */
+    border-radius: 6px !important;   /* 완전 각지게 하려면 0 */
     max-width: 160px;
   }
 
-  /* 2. abstract / full paper 링크 스타일 */
+  /* 3. abstract / full paper 링크 스타일 */
   .pub-links a,
   details.abstract > summary {
     font-size: 0.9em;
@@ -49,8 +45,8 @@
     display: inline;
     list-style: none;
   }
-  details.abstract > summary::-webkit-details-marker { display: none; }   /* Chrome/Safari 삼각형 제거 */
-  details.abstract > summary::marker { content: ""; }                      /* Firefox 삼각형 제거 */
+  details.abstract > summary::-webkit-details-marker { display: none; }  /* Chrome/Safari */
+  details.abstract > summary::marker { content: ""; }                     /* Firefox */
   details.abstract[open] > summary { font-weight: 600; }
 
   details.abstract .abstract-body {
