@@ -70,14 +70,21 @@
   .pub-link:hover,
   .abs-toggle:hover { text-decoration: underline; }
   .abs { display: inline; }
+/* abstract 펼침 박스: 단색 밝은 회색 + 검정 글씨 (다크모드 무관) */
   .abs-body {
-    display: none;            /* 기본 접힘 */
+    display: none;
     font-size: 0.9em;
     line-height: 1.6;
-    background: #f2f2f2;
+    background: #f2f2f2 !important;
+    color: #1c1b18 !important;
     padding: 14px 16px;
     margin-top: 8px;
     border-radius: 4px;
+  }
+  .abs-body strong,
+  .abs-body em,
+  .abs-body span {
+    color: #1c1b18 !important;
   }
 
 /* 안내 문구 */
