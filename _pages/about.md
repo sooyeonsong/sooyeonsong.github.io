@@ -37,6 +37,8 @@ Before pursuing PhD training, I worked in global health policy and management an
 
 <h2 id="working-papers">Working Papers</h2>
 
+<p class="note">Happy to provide full manuscripts upon request.</p>
+
 <div class="pub-list" markdown="0">
 <p>1. <strong>Song S</strong>, Pizer SD, Yee CA, Auty SG. Geographic Variation in Service-Specific Low-Value Orthopedic Services among Medicare-Enrolled Veterans. <em>Under review.</em></p>
 
