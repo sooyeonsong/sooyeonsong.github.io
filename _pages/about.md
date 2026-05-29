@@ -62,7 +62,7 @@ Before pursuing PhD training, I worked in global health policy and management an
 <p>Griffith K, Asfaw D, <strong>Song S</strong>, Aswani M. Medicaid expansion was associated with longer wait times for specialty care. Podium presentation, International Health Economics Association Congress, Cape Town, South Africa, 2023. (co-authored presentation)</p>
 </div>
 
-<h2 id="grants">Grant</h2>
+<h2 id="grants">Grant Experience</h2>
 
 <div class="pub-list" markdown="0">
 <p><strong>NIH/NIA F31 Predoctoral Individual National Research Service Award (NRSA)</strong>. <em>Submitted.</em><br>Title: Improving Medicare Advantage Network Regulation Through Physician Practice Quality and Value Measurement</p>
