@@ -9,11 +9,11 @@ redirect_from:
 
 Welcome! I am a quantitative health services researcher and PhD candidate at the Boston University School of Public Health. 
 
-My research aims to better understand how clinicians and healthcare organizations respond to payment and delivery reforms, including selective contracting and telemedicine.
+My research aims to better understand how clinicians and health care organizations respond to payment and delivery reforms, including selective contracting and telemedicine.
 
-My work applies econometric and measurement science methods to large-scale healthcare data, including Medicare fee-for-service claims, Veterans Health Administration administrative data, electronic health record data, and survey data.
+My work uses applied econometric techniques and measurement science to analyze large-scale data, including Medicare fee-for-service claims, Veterans Health Administration administrative data, electronic health records, and survey data.
 
-Before pursuing PhD training, I worked in global health policy and government management and practiced clinical internal medicine. I received my MPH in Health Policy and Management, BS in Nursing, and BA in Philosophy in South Korea.
+Before pursuing PhD training, I worked in global health policy and management and practiced as an internal medicine nurse. I received my MPH in health policy and management, BS in nursing, and BA in philosophy in South Korea.
 
 <h2 id="education">Education</h2>
 
