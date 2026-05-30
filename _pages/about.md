@@ -62,11 +62,11 @@ Before pursuing PhD training, I worked in global health policy and management an
 <p>Griffith K, Asfaw D, <strong>Song S</strong>, Aswani M. Medicaid expansion was associated with longer wait times for specialty care. Podium presentation, International Health Economics Association Congress, Cape Town, South Africa, 2023. (co-authored presentation)</p>
 </div>
 
-<h2 id="grants">Grant Experience</h2>
+<h2 id="grants">Grant</h2>
 
 <div class="pub-list" markdown="0">
 <p><strong>NIH/NIA F31 Predoctoral Individual National Research Service Award (NRSA)</strong>. <em>Submitted.</em><br>Title: Improving Medicare Advantage Network Regulation Through Physician Practice Quality and Value Measurement</p>
-<p><strong>BU School of Public Health Predoctoral Dissertation Award</strong>, 2025&ndash;2026.<br>Title: Measuring Quality and Value of Physician Practices to Improve Selective Contracting</p>
+<p><strong>BU School of Public Health Predoctoral Dissertation Pilot Award</strong>, 2025&ndash;2026.<br>Title: Measuring Quality and Value of Physician Practices to Improve Selective Contracting</p>
 <p><strong>Principal Candidate, Fulbright Graduate Scholarship</strong> (not accepted due to COVID-19), 2020.</p>
 <p><strong>Korea Medical Association Research Institute for Healthcare Policy</strong> , 2015&ndash;2016.<br>Title: Effects of tiered cost sharing on outpatient and prescription drug use in Korea</p>
 <p><strong>Dr. Lee Fellowship</strong>, Korea Foundation for International Healthcare, 2015.</p>
