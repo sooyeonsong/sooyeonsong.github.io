@@ -18,7 +18,7 @@ Before beginning doctoral training, I worked in global health policy and managem
 <h2 id="education">Education</h2>
 
 <div class="pub-list" markdown="0">
-<p><span class="ed-row"><strong>Boston University</strong><span class="ed-year">2027 (expected)</span></span>Ph.D. Candidate, Health Services and Policy Research (Health Economics)<br>Department of Health Law, Policy, and Management<br>Dissertation (in progress): Measuring quality and value of physician practices to improve selective contracting<br>Committee: Drs. Steven D. Pizer (chair), Christine A. Yee, Samantha G. Auty</p>
+<p><span class="ed-row"><strong>Boston University</strong><span class="ed-year">2027 (expected)</span></span>Ph.D. Candidate, Health Services and Policy Research (Health Economics)<br>Department of Health Law, Policy, and Management<br>Dissertation (in progress): Measuring quality and value of health services for selective contracting<br>Committee: Drs. Steven D. Pizer (chair), Christine A. Yee, Samantha G. Auty</p>
 <p><span class="ed-row"><strong>Seoul National University</strong><span class="ed-year">2016</span></span>M.P.H. in Health Care Management and Policy<br>Thesis: Effects of tiered cost sharing on outpatient service use and prescription drug use</p>
 <p><span class="ed-row"><strong>Seoul National University</strong><span class="ed-year">2013</span></span>B.S. in Nursing, B.A. in Philosophy</p>
 </div>
@@ -73,9 +73,9 @@ Before beginning doctoral training, I worked in global health policy and managem
 <h2 id="grants">Research Grants</h2>
 
 <div class="pub-list" markdown="0">
-<p><strong>NIH/NIA F31 Individual Predoctoral Fellowship</strong>. <em>Submitted.</em><br>Title: Improving Medicare Advantage Network Regulation Through Physician Practice Quality and Value Measurement<br>Role: Principal Investigator</p>
+<p><strong>NIH/NIA F31 Individual Predoctoral Fellowship</strong>. <em>Submitted.</em><br>Title: Improving Medicare Advantage Network Regulation Through  Practice Quality and Value Measurement<br>Role: Principal Investigator</p>
 
-<p><strong>Boston University Predoctoral Pilot Research Award </strong>, Oct 2025&ndash;Oct 2026.<br>Title: Measuring Quality and Value of Physician Practices to Improve Selective Contracting<br>Role: Principal Investigator</p>
+<p><strong>Boston University Predoctoral Pilot Research Award </strong>, Oct 2025&ndash;Oct 2026.<br>Title: Measuring Quality and Value of Practices to Improve Selective Contracting<br>Role: Principal Investigator</p>
 
 <p><strong>Korea Medical Association/Research Institute for Healthcare Policy Thesis Award </strong>, 2015&ndash;2016.<br>Title: Effects of tiered cost sharing on outpatient and prescription drug use in South Korea<br>Role: Principal Investigator</p>
 </div>
