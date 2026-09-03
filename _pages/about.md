@@ -13,7 +13,7 @@ I study how reforms to health care payment and delivery shape provider behavior,
 
 I apply quasi-experimental methods and quality measurement to large-scale data, including Medicare claims, Veterans Health Administration administrative records, and electronic health records. 
 
-My research has been published in health policy and medical journals, including JAMA Network Open and Health Affairs Scholar.
+My research has been published in health policy and medical journals, including <em>JAMA Network Open</em> and <em>Health Affairs Scholar</em>.
 
 Before beginning doctoral training, I worked in global health policy and management and practiced as a nurse in internal medicine. I hold an MPH in health policy and management, a BS in nursing, and a BA in philosophy in South Korea.
 
