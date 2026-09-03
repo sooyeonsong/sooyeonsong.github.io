@@ -75,9 +75,9 @@ Before beginning doctoral training, I worked in global health policy and managem
 <div class="pub-list" markdown="0">
 <p><strong>NIH/NIA F31 Individual Predoctoral Fellowship</strong>. <em>Submitted.</em><br>Title: Improving Medicare Advantage Network Regulation Through Physician Practice Quality and Value Measurement<br>Role: Principal Investigator</p>
 
-<p><strong>Boston University Predoctoral Pilot Research Award ($2,000)</strong>, Oct 2025&ndash;Oct 2026.<br>Title: Measuring Quality and Value of Physician Practices to Improve Selective Contracting<br>Role: Principal Investigator</p>
+<p><strong>Boston University Predoctoral Pilot Research Award </strong>, Oct 2025&ndash;Oct 2026.<br>Title: Measuring Quality and Value of Physician Practices to Improve Selective Contracting<br>Role: Principal Investigator</p>
 
-<p><strong>Korea Medical Association/Research Institute for Healthcare Policy Thesis Award ($2,400)</strong>, 2015&ndash;2016.<br>Title: Effects of tiered cost sharing on outpatient and prescription drug use in South Korea<br>Role: Principal Investigator</p>
+<p><strong>Korea Medical Association/Research Institute for Healthcare Policy Thesis Award </strong>, 2015&ndash;2016.<br>Title: Effects of tiered cost sharing on outpatient and prescription drug use in South Korea<br>Role: Principal Investigator</p>
 </div>
 
 <h2 id="awards">Awards and Honors</h2>
@@ -101,7 +101,7 @@ Before beginning doctoral training, I worked in global health policy and managem
 <div class="pub-list" markdown="0">
 <p><strong>Song S</strong>. Telehealth provision and mental health clinician supply. Presentation at the University of Iowa College of Public Health, Department of Health Policy and Management. Virtual, 2025.</p>
 
-<p><strong>Song S</strong>. How to create instruments &amp; when your instrument gets stuck: An example using internet broadband availability as an instrument for telehealth. Presentation at the Boston University School of Public Health, Department of Health Law, Policy, and Management Quantitative Methods Seminar. Virtual, 2025.</p>
+<p><strong>Song S</strong>. Public-private partnership in pharmaceutical innovation for low-income countries. Presentation at Korea Centers for Disease Control and Prevention (Korean equivalent of US CDC). Osong, South Korea. </p>
 </div>
 
 <h2 id="teaching">Teaching Experience</h2>
