@@ -7,18 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD candidate at the Boston University School of Public Health. 
+Welcome! I am a PhD candidate at the Boston University School of Public Health and a graduate fellow at the VA Boston Healthcare System.
 
 I study how reforms to health care payment and delivery shape provider behavior, including clinician practice patterns and labor supply. My current research focuses on provider networks, low-value care, and telehealth. 
 
 I apply quasi-experimental methods and quality measurement to large-scale data, including Medicare claims, Veterans Health Administration administrative records, and electronic health records. 
+
+My research has been published in health policy and medical journals, including JAMA Network Open and Health Affairs Scholar.
 
 Before beginning doctoral training, I worked in global health policy and management and practiced as a nurse in internal medicine. I hold an MPH in health policy and management, a BS in nursing, and a BA in philosophy in South Korea.
 
 <h2 id="education">Education</h2>
 
 <div class="pub-list" markdown="0">
-<p><span class="ed-row"><strong>Boston University</strong><span class="ed-year">2027 (expected)</span></span>Ph.D. Candidate, Health Services and Policy Research (Health Economics)<br>Department of Health Law, Policy, and Management<br>Dissertation (in progress): Measuring quality and value of health services for selective contracting<br>Committee: Drs. Steven D. Pizer (chair), Christine A. Yee, Samantha G. Auty</p>
+<p><span class="ed-row"><strong>Boston University</strong><span class="ed-year">2027 (expected)</span></span>Ph.D. Candidate, <a href="https://www.bu.edu/sph/education/degrees-and-programs/doctor-of-philosophy-phd/doctor-of-philosophy-in-health-services-and-policy-research/" target="_blank" rel="noopener">Health Services and Policy Research</a> (Health Economics)<br>Department of Health Law, Policy, and Management<br>Dissertation (in progress): Measuring quality and value of health services for selective contracting<br>Chair: <a href="https://www.bu.edu/sph/profile/steven-d-pizer/" target="_blank" rel="noopener">Dr. Steven D. Pizer</a></p>
 <p><span class="ed-row"><strong>Seoul National University</strong><span class="ed-year">2016</span></span>M.P.H. in Health Care Management and Policy<br>Thesis: Effects of tiered cost sharing on outpatient service use and prescription drug use</p>
 <p><span class="ed-row"><strong>Seoul National University</strong><span class="ed-year">2013</span></span>B.S. in Nursing, B.A. in Philosophy</p>
 </div>
@@ -27,10 +29,10 @@ Before beginning doctoral training, I worked in global health policy and managem
 
 <div class="pub-list" markdown="0">
 <p><strong>VA Boston Healthcare System, US Department of Veterans Affairs</strong><br>Graduate Fellow, <a href="https://www.peprec.research.va.gov/PEPRECRESEARCH/index.asp" target="_blank" rel="noopener">Partnered Evidence-Based Policy Resource Center</a><br>Boston, MA &middot; <em>Sep 2021&ndash;present</em></p>
-<p><strong>Korea International Cooperation Agency (KOICA) HQ</strong> (Korean equivalent of USAID)<br>Health Specialist, <a href="http://koica.go.kr/koica_en/3458/subview.do" target="_blank" rel="noopener">Global Disease Eradication Fund (GDEF) Department</a><br>Sungnam, Korea &middot; <em>Jun 2017&ndash;Feb 2021</em></p>
+<p><strong><a href="https://www.koica.go.kr/sites/koica_en/index.do" target="_blank" rel="noopener">Korea International Cooperation Agency (KOICA) HQ</a></strong> (Korean equivalent of USAID)<br>Health Specialist, Global Disease Eradication Fund (GDEF) Department<br>Sungnam, Korea &middot; <em>Jun 2017&ndash;Feb 2021</em></p>
 <p><strong>World Health Organization (WHO) HQ</strong><br>Research Assistant, <a href="https://www.who.int/teams/integrated-health-services/about" target="_blank" rel="noopener">Integrated Health Services Department</a><br>Geneva, Switzerland &middot; <em>Sep 2016&ndash;Dec 2016</em></p>
-<p><strong><a href="https://www.snuh.org/global/en/main.do" target="_blank" rel="noopener">Seoul National University Hospital</a></strong> (Acute care hospital with 1700+ beds)<br>Registered Nurse (inpatient), Internal Medicine &amp; Rehabilitation Medicine<br>Seoul, Korea &middot; <em>Sep 2014&ndash;Sep 2016</em></p>
-<p><strong><a href="https://www.kihasa.re.kr/en" target="_blank" rel="noopener">Korea Institute for Health and Social Affairs</a></strong> (Government think tank specialized in health and social policy)<br>Research Assistant (part-time), Health Care Policy Analysis Department<br>Seoul, Korea &middot; <em>Apr 2014&ndash;Jun 2014</em></p>
+<p><strong><a href="https://www.snuh.org/global/en/main.do" target="_blank" rel="noopener">Seoul National University Hospital</a></strong> (Academic medical center with 1700+ beds)<br>Registered Nurse (inpatient), Internal Medicine &amp; Rehabilitation Medicine<br>Seoul, Korea &middot; <em>Sep 2014&ndash;Sep 2016</em></p>
+<p><strong><a href="https://www.kihasa.re.kr/en" target="_blank" rel="noopener">Korea Institute for Health and Social Affairs</a></strong> (Government health policy research institute)<br>Research Assistant (part-time), Health Care Policy Analysis Department<br>Seoul, Korea &middot; <em>Apr 2014&ndash;Jun 2014</em></p>
 </div>
 
 <h2 id="publications">Peer-Reviewed Journal Articles</h2>
@@ -60,7 +62,7 @@ Before beginning doctoral training, I worked in global health policy and managem
 <h2 id="presentations">Conference Presentations</h2>
 
 <div class="pub-list" markdown="0">
-<p class="pres-group">Domestic</p>
+<p class="pres-group">National</p>
 <p><strong>Song S</strong>, Auty S, Yee CA, Chalmers K, Pizer SD. Use of Low-Value Service Measures to Predict Subsequent Population-Based Spending: Implications for Value-Based Network Regulation. Podium presentation, ASHEcon Annual Conference, Minneapolis, MN, 2026. <a class="pub-link" href="https://ashecon.confex.com/ashecon/2026/meetingapp.cgi/Paper/18714" target="_blank" rel="noopener">[Link]</a></p>
 <p><strong>Song S</strong>, Nguyen P, Sites EP, Barr K, Greer M, Pizer S, Thorsness R. Developing clinician staffing guidelines in Veterans Health Administration. Poster presentation, AcademyHealth Annual Research Meeting, Minneapolis, MN, 2025. <a class="pub-link" href="https://academyhealth.confex.com/academyhealth/2025arm/meetingapp.cgi/Paper/70262" target="_blank" rel="noopener">[Link]</a></p>
 <p><strong>Song S</strong>, Legler A, Lum J, Pizer S, Yee C. Effects of telehealth provision on primary care provider labor supply. Podium presentation, ASHEcon Annual Conference, San Diego, CA, 2024. <a class="pub-link" href="https://ashecon.confex.com/ashecon/2024/meetingapp.cgi/Paper/15345" target="_blank" rel="noopener">[Link]</a></p>
@@ -122,7 +124,7 @@ Before beginning doctoral training, I worked in global health policy and managem
 
 <div class="pub-list" markdown="0">
 <p class="sub-head">Professional Appointment</p>
-<p>Member-at-large, AcademyHealth Health Economics Interest Group Advisory Committee, 2024&ndash;2026.</p>
+<p>Member-at-large, <a href="https://academyhealth.org/professional-resources/interest-groups/health-economics-interest-group/page/health-economics-interest-group" target="_blank" rel="noopener">AcademyHealth Health Economics Interest Group</a> Advisory Committee, 2024&ndash;2026.</p>
 <p class="sub-head">Prior Global Health and Korean Government Experience</p>
 <p>Technical Expert Panel Member, (Korean) R&amp;D Fund for Infectious Disease Research (GFID), 2019.</p>
 <p>Ad Hoc Grant Proposal Referee, KOICA (&times;9), 2017&ndash;2019.</p>
