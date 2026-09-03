@@ -11,7 +11,7 @@ Welcome! I am a PhD candidate at the Boston University School of Public Health.
 
 I study how reforms to health care payment and delivery shape provider behavior, including clinician practice patterns and labor supply. My current research focuses on provider networks, low-value care, and telehealth. 
 
-I apply causal inference methods and quality measurement to large-scale data, including Medicare claims, Veterans Health Administration administrative records, and electronic health records. 
+I apply quasi-experimental methods and quality measurement to large-scale data, including Medicare claims, Veterans Health Administration administrative records, and electronic health records. 
 
 Before beginning doctoral training, I worked in global health policy and management and practiced as a nurse in internal medicine. I hold an MPH in health policy and management, a BS in nursing, and a BA in philosophy in South Korea.
 
